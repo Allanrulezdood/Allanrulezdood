@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allanrulezdood
 - 👀 I’m interested in ... Coding and app creation
-- 🌱 I’m currently learning ...Data science
+- 🌱 I’m currently learning ...Swift
 - 💞️ I’m looking to collaborate on ... app creation
 - 📫 How to reach me ... allanrulezdood@hotmail.com
 
